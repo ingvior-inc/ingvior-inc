@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys 👋 I’m in Python Development, just hanging out
 
 <!--
 **ingvior-inc/ingvior-inc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
